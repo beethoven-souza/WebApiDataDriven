@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s3UXZr6ksMHQQv2x3a4krUVYyLyA2SACw0dx+2DF0AI=",
+  "Source": "WebApiDataDriven",
+  "BasePath": "_content/WebApiDataDriven",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
