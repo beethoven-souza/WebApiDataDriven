@@ -1,6 +1,7 @@
 # WebApiDataDriven
 ## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
+<p>.Net 6</p>
+<p>Data Driven</p>
 # .Net 6
 # Data Driven
 # JWT - para autenticação dos usuários
